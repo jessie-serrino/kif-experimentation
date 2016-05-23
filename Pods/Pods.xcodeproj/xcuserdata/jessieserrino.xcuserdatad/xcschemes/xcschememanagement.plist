@@ -6,18 +6,23 @@
 	<dict>
 		<key>KIF.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-KIFUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>91BD43F81CEFD4C6001D9032</key>
+		<key>73E27E04CDB3B780F9B78E2D8AB9475A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>91BD44161CEFD4EF001D9032</key>
+		<key>9386849B13B22FFEAC730664D9BC82B6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
